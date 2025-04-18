@@ -2,6 +2,8 @@
 
 So far, I have learned to code in Python, C/C++, Java, JavaScript, and Swift. I look forward to expanding my knowledge more and becoming a better programmer.
 
+LOOKING FOR 2025 SUMMER INTERNSHIP!
+
 
 <!---
 Vidhi0003/Vidhi0003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
